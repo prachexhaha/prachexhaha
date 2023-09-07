@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **a few projects from different domains like Reinforcement Learning and some personal projects in Go.**
 
-- 👯 I’m looking to collaborate in **any project that aims to solve problems**
+- 👯 I’m looking to collaborate in **any project that aims to **solve** problems**
 
-- 👨‍💻 All of my projects are available at [on my Github :)](on my Github :))
+- 👨‍💻 All of my projects are available at right here.
 
-- 📫 How to reach me **Linkedin :)**
+- 📫 Lets connect on **Linkedin :)**
 
 - ⚡ Fun fact **the GOlang mascot is an animal called GOPHER 🐹**
 
