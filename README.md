@@ -1,5 +1,5 @@
 ### Hi there~
-<h3 align="center">Welcome to my Profile! I'm Prachee Sharma✨✨</h3>
+<h3 align="center">Welcome to my Profile! I'm Prachee✨✨</h3>
 <img align="right" width="200" src="https://github.com/prachexhaha/prachexhaha/blob/main/github%20ke%20liye.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachexhaha&label=Profile%20views&color=0e75b6&style=flat" alt="prachexhaha" /> </p>
 
