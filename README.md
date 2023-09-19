@@ -1,7 +1,7 @@
 ### Hi there~
 <h3 align="center">Welcome to my Profile! I'm Prachee Sharma✨✨</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/prachexhaha/prachexhaha/assets/139618511/504a4a99-add2-4c08-9223-25c4b95b4cf4)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/prachexhaha/prachexhaha/assets/139618511/39e00e4a-3285-48ae-a3a7-4d5da074e6cf)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachexhaha&label=Profile%20views&color=0e75b6&style=flat" alt="prachexhaha" /> </p>
 
