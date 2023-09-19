@@ -1,6 +1,8 @@
 ### Hi there~
 <h3 align="center">Welcome to my Profile! I'm Prachee Sharma✨✨</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff9%2Fba%2F23%2Ff9ba232d6b18c80b3a95c1ec8dc1c796.gif&tbnid=zLP5Roou6RdXzM&vet=12ahUKEwjHpZGetraBAxV2TWwGHYB5CBcQMygFegQIARBj..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F18788523432422422%2F&docid=Cf0HvCtWvpaagM&w=500&h=280&q=aesthetic%20study%20animated%20gif&hl=en&ved=2ahUKEwjHpZGetraBAxV2TWwGHYB5CBcQMygFegQIARBj">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachexhaha&label=Profile%20views&color=0e75b6&style=flat" alt="prachexhaha" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes, AWS, GCP, GOlang, Python, Artificial Intelligence, Machine Learning,Reinforcement Learning, Data Structures and Algos, Redhat Linux, Electronics - VLSI Design**
@@ -28,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachexhaha&show_icons=true&locale=en" alt="prachexhaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachexhaha&" alt="prachexhaha" /></p>
-
-
