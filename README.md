@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a few projects from different domains like Reinforcement Learning and some personal projects in Go.**
 
-- 👯 I’m looking to collaborate in **any project that aims to **solve** problems**
+- 👯 I’m looking to collaborate in any project that aims to **solve** problems
 
-- 👨‍💻 All of my projects are available at right here.
+- 👨‍💻 All of my projects are available right here.
 
 - 📫 Lets connect on **Linkedin :)**
 
