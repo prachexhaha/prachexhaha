@@ -3,7 +3,7 @@
 <img align="right" width="200" src="https://github.com/prachexhaha/prachexhaha/blob/main/github%20ke%20liye.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachexhaha&label=Profile%20views&color=0e75b6&style=flat" alt="prachexhaha" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, AWS, GCP, GOlang, Python, Artificial Intelligence, Machine Learning,Reinforcement Learning, Data Structures and Algos, Redhat Linux, Electronics - VLSI Design**
+- 🌱 I’m currently learning **GOlang, Python, Artificial Intelligence, Machine Learning,Reinforcement Learning, Data Structures and Algos, Redhat Linux, k8s**
 
 - 🔭 I’m currently working on **a few projects from different domains like Reinforcement Learning and some personal projects in Go.**
 
